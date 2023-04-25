@@ -2,9 +2,9 @@
   "name": "appdmg",
   "version": "0.6.6",
   "license": "MIT",
-  "author": "Linus Unnebäck <linus@folkdatorn.se>",
+  "author": "chinayangxiaowei <yxw_@163.com>",
   "bin": "bin/appdmg.js",
-  "repository": "LinusU/node-appdmg",
+  "repository": "chinayangxiaowei/node-appdmg",
   "dependencies": {
     "async": "^1.4.2",
     "ds-store": "^0.1.5",
